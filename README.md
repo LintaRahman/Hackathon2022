@@ -21,7 +21,7 @@ Step 5: Once you see ‘listening…’ appear on the screen, say what you would
  
 Step 6: If you sentence has been recognised by the computer then you will be prompted to say the language you would like to translate to. When the computer recognises the language correctly, you will see the translated text on the screen as well as hear the audio.
  
-Q & A:  potential problems:
+# Q & A:  potential problems:
 1.	Unable to find libraries.txt
 Make sure the directory you are working on has all three files: translator.py, speechtotext.py and libraries.txt in the same folder.
 2.	Error raised ‘unable to find pyaudio’
