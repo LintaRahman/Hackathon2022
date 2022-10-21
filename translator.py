@@ -1,5 +1,3 @@
-# https://www.geeksforgeeks.org/create-a-real-time-voice-translator-using-python/?ref=rp
-
 from playsound import playsound
 from googletrans import Translator
 from gtts import gTTS
