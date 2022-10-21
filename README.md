@@ -1,9 +1,13 @@
 # Hackathon2022
 
 Summary: A translator holding speech to text functionalities using speechRecognistion and GoogleTrans library. 
+
 Keywords: Terminal, directory, libraries, Python, Visual Studio Code, PyCharm
-What you need to run this : Microphone and speakers enabled, python installed.
-Method:
+
+What you need to run this: Microphone and speakers enabled, python installed.
+
+# Method:
+
 Step 1: Download the files from this link and save all the files to the one folder. https://drive.google.com/drive/folders/1QKoefbUrsfeeXDVDemLP2vdibbrdhk6P?usp=sharing 
 
 Step 2: Check if your computer has pip installed by running ‘pip –version’. If not follow the guide on this link to install pip. 
